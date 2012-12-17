@@ -1,0 +1,21 @@
+---
+layout: default
+title: Portfolio of Varun Vachhar
+---
+
+<div class="row" style="text-align: center;">
+	
+	{% for post in site.posts %}
+
+	<div class="three columns project-box-container">
+		<a class="project-box" href="{{ post.url }}#projectCover">
+			<figure>
+				<img src="{{ post.image }}">
+				<h6>{{ post.title }}</h6>
+			</figure>
+		</a>
+	</div>
+	
+	{% endfor %}
+
+</div>

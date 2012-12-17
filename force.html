@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>winkerVSbecks: Portfolio of Varun Vachhar</title>
+
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/app.css">
+  <link rel="stylesheet" href="fontAwesome/css/font-awesome.css">
+	<!--[if IE 7]>
+	  <link rel="stylesheet" href="assets/css/font-awesome-ie7.css">
+	<![endif]-->
+	<script src="javascripts/foundation/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<!-- Header and Nav -->
+	<div class="row">
+		<div class="twelve columns">
+			<a href="index.html"><h1 class="logo"># winkerVSbecks</h1></a>
+			<ul class="nav-bar">
+	      <li><a href="about.html">About</a></li>
+	      <li><a href="index.html">Work</a></li>
+	    </ul>
+		</div>
+	</div>
+	<!-- END Header and Nav -->
+
+  <!-- Main Content Section -->
+  <div class="row" id="projectCover">
+  	<div class="twelve columns">
+      <img class="" src="projects/centrifugalForce.jpg" />
+      <h1 class="projectTitle">The Uncertainty Sculpture of Doom, yes</h1>
+    </div>
+  </div>
+  <br />
+  <div class="row">
+  	<div class="three columns">
+  		<p class="meta year">2012</p>
+  		<p class="meta">self initiated</p>
+  		<p class="meta">robotics, installation, prototype</p>
+  		<p class="project-nav"><a class="icon-circle-arrow-left icon-large arrow" href="#"></a> <a class="icon-circle-arrow-right icon-large arrow inactive" href="#"></a></p>
+  	</div>
+    <div class="nine columns" id="projectContent">
+    	<p>This is a prototype installation for exploring simultaneous existence of robots and humans in a physical space. A swarm of robots, with characteristics based on different types of bees in a hive, is left alone to live and occupy a space.</p> 
+
+    	<p><ul>
+    		<li>The queen sits stationary observing the space and sending out commands to the other robots</li>
+    		<li>The worker is provided the task to map out the actual space, filtering out interactions with humans</li>
+    		<li>The soldier tries to prevent close interactions with the queen</li>
+			</ul></p>
+			<p>Made with <a href="http://arduino.cc">Arduino</a></p>
+    </div>
+  </div>
+
+  <div class="row">
+  	<div class="twelve columns">
+	  	<div class="centered fancyGallery twelve columns">
+		  	<a class="fancybox" rel="gallery1" href="projects/worker.jpg">
+					<img src="http://placehold.it/175x150" alt="" />
+				</a>
+				<a class="fancybox" rel="gallery1" href="projects/queen.jpg">
+					<img src="http://placehold.it/175x150" alt="" />
+				</a>
+				<a class="fancybox" rel="gallery1" href="projects/soldier.jpg">
+					<img src="http://placehold.it/175x150" alt="" />
+				</a>
+				<a class="fancybox" rel="gallery1" href="projects/queen.gif">
+					<img src="http://placehold.it/175x150" alt="" />
+				</a>
+				<a class="fancybox" rel="gallery1" href="projects/soldier.gif">
+					<img src="http://placehold.it/175x150" alt="" />
+				</a>
+			</div>
+		</div>
+  </div>
+
+  <div class="row">
+  	<div class="twelve columns">
+		  <div class="flex-video widescreen vimeo">
+		  	<iframe src="http://player.vimeo.com/video/32710278?title=0&amp;byline=0&amp;portrait=0" width="960" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+			</div>
+		</div>
+	</div>
+  <!-- END Main Content Section -->
+
+  <!-- Footer -->
+  <footer class="row footer">
+    <div class="twelve columns">
+      <p><span>&copy; Varun Vachhar 2012</span> <span class="super-right">Built with <a href="http://foundation.zurb.com/">Foundation</a>, <a href="http://compass-style.org">Compass</a> &amp; <a href="http://jekyllbootstrap.com">Jekyll</a></span></p>
+    </div>
+  </footer>
+  <!-- END Footer -->
+	
+	<!-- Included JS Files (Uncompressed) -->
+	<script src="javascripts/foundation/jquery.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.accordion.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.alerts.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.buttons.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.forms.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.mediaQueryToggle.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.navigation.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.orbit.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.reveal.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.tabs.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.tooltips.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.topbar.js"></script>
+	<script src="javascripts/foundation/jquery.placeholder.js"></script>
+
+	<script src="javascripts/jquery.masonry.min.js"></script>
+	
+  <!-- Application Javascript, safe to override -->
+  <script src="javascripts/foundation/app.js"></script>
+	<script type="text/javascript" src="javascripts/source/jquery.fancybox.js?v=2.1.1"></script>
+	<link rel="stylesheet" type="text/css" href="javascripts/source/jquery.fancybox.css?v=2.1.1" media="screen" />
+  <script type="text/javascript">
+    $(document).ready(function() {
+			$(".fancybox").fancybox({
+				openEffect	: 'none',
+				closeEffect	: 'none', 
+			});
+		});
+	</script>
+</body>
+</html>

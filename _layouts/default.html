@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+	<title>winkerVSbecks |{% if page.title %} {{ page.title }} {% endif %}</title>
+
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="/stylesheets/app.css">
+	<link rel="stylesheet" href="/fontAwesome/css/font-awesome.css">
+	<!--[if IE 7]>
+	  <link rel="stylesheet" href="assets/css/font-awesome-ie7.css">
+	<![endif]-->
+
+	<script src="/javascripts/foundation/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+	<!-- Header and Nav -->
+	<div class="row">
+		<div class="twelve columns top">
+			<a href="/"><h1 class="logo"># winkerVSbecks</h1></a>
+			<ul class="nav-bar">
+        <li><a href="/about">About</a></li>
+        <li><a href="/">Work</a></li>
+      </ul>
+		</div>
+	</div>
+	<!-- END Header and Nav -->
+
+	{{ content }}
+
+  <!-- Footer -->
+  <footer class="row footer">
+    <div class="twelve columns">
+      <p><span id="copy">&copy; Varun Vachhar 2012</span> <span class="super-right" id="credits">Built with <a href="http://foundation.zurb.com/">Foundation</a>, <a href="http://compass-style.org">Compass</a> &amp; <a href="https://github.com/mojombo/jekyll">Jekyll</a></span></p>
+    </div>
+  </footer>
+  <!-- END Footer -->
+	
+	<!-- Included JS Files (Uncompressed) -->
+	<script src="/javascripts/foundation/jquery.js"></script>
+	<script src="/javascripts/foundation/jquery.foundation.accordion.js"></script>
+	<script src="/javascripts/foundation/jquery.foundation.alerts.js"></script>
+	<script src="/javascripts/foundation/jquery.foundation.buttons.js"></script>
+	<script src="/javascripts/foundation/jquery.foundation.forms.js"></script>
+	<script src="/javascripts/foundation/jquery.foundation.mediaQueryToggle.js"></script>
+	<script src="/javascripts/foundation/jquery.foundation.navigation.js"></script>
+	<script src="/javascripts/foundation/jquery.foundation.orbit.js"></script>
+	<script src="/javascripts/foundation/jquery.foundation.reveal.js"></script>
+	<script src="/javascripts/foundation/jquery.foundation.tabs.js"></script>
+	<script src="/javascripts/foundation/jquery.foundation.tooltips.js"></script>
+	<script src="/javascripts/foundation/jquery.foundation.topbar.js"></script>
+	<script src="/javascripts/foundation/jquery.placeholder.js"></script>
+
+  <!-- Application Javascript, safe to override -->
+  <script src="/javascripts/foundation/app.js"></script>
+  <script type="text/javascript">
+	  $('#featured').orbit({
+			animation: 'horizontal-slide',                  // fade, horizontal-slide, vertical-slide, horizontal-push
+			animationSpeed: 300,                // how fast animtions are
+			timer: true, 			 // true or false to have the timer
+			resetTimerOnClick: false,           // true resets the timer instead of pausing slideshow progress
+			advanceSpeed: 3000, 		 // if timer is enabled, time between transitions 
+			pauseOnHover: false, 		 // if you hover pauses the slider
+			startClockOnMouseOut: false, 	 // if clock should start on MouseOut
+			startClockOnMouseOutAfter: 1000, 	 // how long after MouseOut should the timer start again
+			directionalNav: true, 		 // manual advancing directional navs
+			captions: true, 			 // do you want captions?
+			captionAnimation: 'fade', 		 // fade, slideOpen, none
+			captionAnimationSpeed: 800, 	 // if so how quickly should they animate in
+			bullets: false,			 // true or false to activate the bullet navigation
+			bulletThumbs: false,		 // thumbnails for the bullets
+			bulletThumbLocation: '',		 // location from this file where thumbs will be
+			afterSlideChange: function(){}, 	 // empty function 
+			fluid: true                         // or set a aspect ratio for content slides (ex: '4x3') 
+		});
+	</script>
+	<script type="text/javascript" src="/javascripts/source/jquery.fancybox.js?v=2.1.1"></script>
+	<link rel="stylesheet" type="text/css" href="/javascripts/source/jquery.fancybox.css?v=2.1.1" media="screen" />
+  <script type="text/javascript">
+    $(document).ready(function() {
+			$(".fancybox").fancybox({
+				openEffect	: 'none',
+				closeEffect	: 'none', 
+			});
+		});
+	</script>
+</body>
+</html>

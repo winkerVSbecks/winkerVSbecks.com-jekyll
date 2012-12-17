@@ -1,0 +1,590 @@
+/* line 8, ../sass/foundation-overrides.scss */
+h1 {
+  font-size: ms(5);
+}
+
+/* line 9, ../sass/foundation-overrides.scss */
+h2 {
+  font-size: ms(4);
+}
+
+/* line 10, ../sass/foundation-overrides.scss */
+h3 {
+  font-size: ms(3);
+}
+
+/* line 11, ../sass/foundation-overrides.scss */
+h4 {
+  font-size: ms(2);
+}
+
+/* line 12, ../sass/foundation-overrides.scss */
+h5 {
+  font-size: ms(1);
+}
+
+/* line 13, ../sass/foundation-overrides.scss */
+h6 {
+  font-size: ms(0);
+}
+
+/* line 15, ../sass/foundation-overrides.scss */
+h1.logo {
+  font-size: 100px;
+  margin-bottom: 0px;
+  border-bottom: 1px solid #444;
+  font-style: italic;
+}
+
+/* line 23, ../sass/foundation-overrides.scss */
+hr {
+  border: solid #ddd;
+  border-width: 1px 0 0;
+  clear: both;
+  margin: 22px 0 21px;
+  height: 0;
+}
+
+/* line 25, ../sass/foundation-overrides.scss */
+p {
+  line-height: 1.8;
+  margin-bottom: ms(2);
+}
+/* line 28, ../sass/foundation-overrides.scss */
+p > a {
+  color: #444444;
+  border-bottom: 1px solid gold;
+  font-weight: bold;
+}
+/* line 33, ../sass/foundation-overrides.scss */
+p > a:hover, p a:active, p a:focus {
+  color: #444444;
+  border-bottom: 1px solid #444444;
+}
+/* line 37, ../sass/foundation-overrides.scss */
+p.meta {
+  border-bottom: 1px solid #444444;
+  padding: 0 0 0 5px;
+  margin: 0;
+  font-style: italic;
+  font-family: Baskerville, Georgia, Times, serif;
+  font-size: 18px;
+}
+/* line 40, ../sass/foundation-overrides.scss */
+p.meta.year {
+  padding: 0 0 0 7px;
+}
+/* line 47, ../sass/foundation-overrides.scss */
+p.project-nav {
+  border: 0;
+  padding: 0 0 3px 7px;
+  font-family: Baskerville, Georgia, Times, serif;
+}
+/* line 52, ../sass/foundation-overrides.scss */
+p.project-nav > a.arrow {
+  border: 0;
+  font-size: 30px;
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+}
+/* line 58, ../sass/foundation-overrides.scss */
+p.project-nav > a.arrow:first-child {
+  margin-right: 10px;
+}
+/* line 59, ../sass/foundation-overrides.scss */
+p.project-nav > a.arrow:hover, p.project-nav > a.arrow:focus, p.project-nav > a.arrow:active {
+  color: gold;
+}
+/* line 62, ../sass/foundation-overrides.scss */
+p.project-nav > a.arrow.inactive {
+  color: #888;
+}
+/* line 64, ../sass/foundation-overrides.scss */
+p.project-nav > a.arrow.inactive:hover, p.project-nav > a.arrow.inactive:focus, p.project-nav > a.arrow.inactive:active {
+  color: #888;
+}
+
+/* line 72, ../sass/foundation-overrides.scss */
+a {
+  padding-bottom: 0px;
+  color: #444444;
+  font-weight: 500;
+}
+/* line 76, ../sass/foundation-overrides.scss */
+a:hover, a:focus {
+  color: gold;
+}
+/* line 79, ../sass/foundation-overrides.scss */
+a.project-box {
+  border-bottom: 1px solid gold;
+  display: inline-block;
+}
+/* line 82, ../sass/foundation-overrides.scss */
+a.project-box > figure > h6 {
+  margin: 3px 0 3px 0;
+}
+/* line 83, ../sass/foundation-overrides.scss */
+a.project-box:hover, a.project-box:focus {
+  border-bottom: 1px solid #444444;
+}
+/* line 85, ../sass/foundation-overrides.scss */
+a.project-box:hover > figure > img, a.project-box:focus > figure > img {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+  opacity: 0.8;
+}
+/* line 88, ../sass/foundation-overrides.scss */
+a.contact {
+  font-style: italic;
+  font-weight: normal;
+  font-family: Baskerville, Georgia, Times, serif;
+}
+/* line 93, ../sass/foundation-overrides.scss */
+a.social {
+  font-weight: normal;
+  border: 0;
+}
+/* line 96, ../sass/foundation-overrides.scss */
+a.social:hover, a.social:active, a.social:focus {
+  border: 0;
+  color: #111111;
+}
+
+/* line 100, ../sass/foundation-overrides.scss */
+blockquote {
+  border-left: 4px solid #ffd700;
+}
+
+/* line 104, ../sass/foundation-overrides.scss */
+.footer {
+  background: gold;
+  padding: 25px 25px 50px 25px;
+  margin-top: 8.09%;
+  color: #444444;
+  position: relative;
+  bottom: 0px;
+}
+
+/* line 114, ../sass/foundation-overrides.scss */
+.footer p {
+  font-size: 13px;
+}
+
+/* line 115, ../sass/foundation-overrides.scss */
+.footer a {
+  color: #444444;
+  border-bottom: 1px solid #444444;
+}
+
+/* line 116, ../sass/foundation-overrides.scss */
+.footer a:hover {
+  border-bottom: 1px solid white;
+}
+
+/* line 119, ../sass/foundation-overrides.scss */
+::selection {
+  background: #FFD700;
+  color: white;
+}
+
+/* line 123, ../sass/foundation-overrides.scss */
+::-moz-selection {
+  background: #FFD700;
+  color: white;
+}
+
+/* line 131, ../sass/foundation-overrides.scss */
+.project-box-container {
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+}
+
+/* line 133, ../sass/foundation-overrides.scss */
+.hero {
+  min-width: 960px;
+}
+
+/* line 136, ../sass/foundation-overrides.scss */
+.projectTitle {
+  margin: -50px 0 0 0;
+  padding: 0 25px  0 25px;
+  line-height: 1.8;
+  background: #fff;
+  display: inline-block;
+  z-index: 100000;
+  max-width: 90%;
+}
+
+/* line 145, ../sass/foundation-overrides.scss */
+#projectContent {
+  margin-bottom: 4.045%;
+}
+
+/* line 149, ../sass/foundation-overrides.scss */
+.panel img {
+  min-width: 290px;
+  border: 1px solid #f2f2e9;
+}
+
+/* line 154, ../sass/foundation-overrides.scss */
+.fancyGallery {
+  background: #f2f2e9;
+  border-left: 5px solid gold;
+  padding: 15px;
+}
+
+/* line 160, ../sass/foundation-overrides.scss */
+.super-right {
+  float: right;
+  text-align: right;
+}
+
+/* line 164, ../sass/foundation-overrides.scss */
+.muted {
+  color: #ccc;
+}
+
+/* line 168, ../sass/foundation-overrides.scss */
+a .projectBox {
+  cursor: pointer;
+  overflow: hidden;
+  background: #f2f2e9;
+}
+/* line 173, ../sass/foundation-overrides.scss */
+a .projectBox span {
+  border-bottom: 1px solid #ccc;
+  margin: 0;
+  padding: 5px 5px 5px 5px;
+  height: 25px;
+}
+
+/* line 181, ../sass/foundation-overrides.scss */
+ul.index {
+  list-style-type: none;
+}
+
+/* line 184, ../sass/foundation-overrides.scss */
+.index li {
+  padding: 0;
+}
+
+/* line 187, ../sass/foundation-overrides.scss */
+.index li a {
+  font-family: Baskerville, Georgia, Times, serif;
+  text-transform: none;
+  font-weight: 500;
+  font-size: ms(3);
+  line-height: 1.4;
+  padding: 0 0 0 10px;
+  display: block;
+  border-bottom: 1px solid #444;
+  color: #444444;
+}
+
+/* line 198, ../sass/foundation-overrides.scss */
+.index li a:hover {
+  border-bottom: 1px solid gold;
+  color: #444444;
+}
+
+/* line 202, ../sass/foundation-overrides.scss */
+.index li a span {
+  visibility: hidden;
+  font-size: ms(1);
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+/* line 208, ../sass/foundation-overrides.scss */
+.index li a:hover span {
+  visibility: visible;
+}
+
+/* line 212, ../sass/foundation-overrides.scss */
+#featured {
+  max-height: 480px;
+  overflow: hidden;
+  z-index: 0;
+}
+/* line 216, ../sass/foundation-overrides.scss */
+#featured img {
+  margin-top: 0px;
+  width: 100%;
+}
+
+/* line 222, ../sass/foundation-overrides.scss */
+.super-row {
+  width: 100%;
+  max-width: 100%;
+  min-width: 768px;
+  margin: 0 auto;
+  margin-bottom: -8.09%;
+}
+/* line 223, ../sass/foundation-overrides.scss */
+.super-row .row {
+  width: auto;
+  max-width: none;
+  min-width: 0;
+  margin: 0 -15px;
+}
+/* line 226, ../sass/foundation-overrides.scss */
+.super-row.collapse .column, .super-row.collapse .columns {
+  padding: 0;
+}
+/* line 228, ../sass/foundation-overrides.scss */
+.super-row .row {
+  width: auto;
+  max-width: none;
+  min-width: 0;
+  margin: 0 -15px;
+}
+/* line 229, ../sass/foundation-overrides.scss */
+.super-row .row.collapse {
+  margin: 0;
+}
+
+/* line 233, ../sass/foundation-overrides.scss */
+.top {
+  background: #fff;
+}
+
+/* line 238, ../sass/foundation-overrides.scss */
+.flex-video {
+  position: relative;
+  padding-bottom: 67.5%;
+  height: 0;
+  margin-bottom: 0px;
+  overflow: hidden;
+  background: #fff;
+}
+/* line 247, ../sass/foundation-overrides.scss */
+.flex-video.widescreen {
+  padding-bottom: 56.25%;
+}
+/* line 248, ../sass/foundation-overrides.scss */
+.flex-video.vimeo {
+  padding-top: 0;
+}
+/* line 250, ../sass/foundation-overrides.scss */
+.flex-video iframe, .flex-video object, .flex-video embed, .flex-video video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media only screen and (max-device-width: 800px), only screen and (device-width: 1024px) and (device-height: 600px), only screen and (width: 1280px) and (orientation: landscape), only screen and (device-width: 800px), only screen and (max-width: 767px) {
+  /* line 254, ../sass/foundation-overrides.scss */
+  .flex-video {
+    padding-top: 0;
+  }
+}
+/* line 260, ../sass/foundation-overrides.scss */
+ul.accordion {
+  margin: 0 0 22px 0;
+  border-bottom: 1px solid #444444;
+}
+/* line 262, ../sass/foundation-overrides.scss */
+ul.accordion > li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid #444444;
+}
+/* line 263, ../sass/foundation-overrides.scss */
+ul.accordion > li .title {
+  cursor: pointer;
+  padding: 15px;
+  margin: 0;
+  position: relative;
+}
+/* line 265, ../sass/foundation-overrides.scss */
+ul.accordion > li .title > :hover {
+  color: gold;
+}
+/* line 267, ../sass/foundation-overrides.scss */
+ul.accordion > li .title h1, ul.accordion > li .title h2, ul.accordion > li .title h3, ul.accordion > li .title h4, ul.accordion > li .title h5 {
+  margin: 0;
+}
+/* line 270, ../sass/foundation-overrides.scss */
+ul.accordion > li .content {
+  display: none;
+  padding: 15px;
+  color: #444444;
+  -webkit-transition: 0.5s display linear;
+  -moz-transition: 0.5s display linear;
+  -o-transition: 0.5s display linear;
+  transition: 0.5s display linear;
+}
+/* line 272, ../sass/foundation-overrides.scss */
+ul.accordion > li.active {
+  border-top: 3px solid gold;
+}
+/* line 274, ../sass/foundation-overrides.scss */
+ul.accordion > li.active .title {
+  background: white;
+  padding-top: 13px;
+}
+/* line 275, ../sass/foundation-overrides.scss */
+ul.accordion > li.active .content {
+  background: white;
+  display: block;
+}
+
+/* line 284, ../sass/foundation-overrides.scss */
+div.orbit-wrapper div.timer {
+  display: none;
+}
+
+/* line 285, ../sass/foundation-overrides.scss */
+div.orbit-wrapper span.rotator {
+  display: none;
+}
+
+/* line 286, ../sass/foundation-overrides.scss */
+div.orbit-wrapper span.mask {
+  display: none;
+}
+
+/* line 287, ../sass/foundation-overrides.scss */
+div.orbit-wrapper span.rotator.move {
+  left: 0;
+}
+
+/* line 289, ../sass/foundation-overrides.scss */
+div.orbit-wrapper span.mask.move {
+  width: 40px;
+  left: 0;
+  background: none;
+}
+
+/* line 293, ../sass/foundation-overrides.scss */
+div.orbit-wrapper span.pause {
+  display: none;
+}
+
+/* line 294, ../sass/foundation-overrides.scss */
+div.orbit-wrapper span.pause.active {
+  background: none;
+  display: none;
+}
+
+/* line 296, ../sass/foundation-overrides.scss */
+div.orbit-wrapper div.timer:hover span.pause,
+div.orbit-wrapper span.pause.active {
+  display: none;
+}
+
+@media all and (max-width: 767px) {
+  /* line 303, ../sass/foundation-overrides.scss */
+  h1.logo {
+    font-size: 75px;
+  }
+
+  /* line 307, ../sass/foundation-overrides.scss */
+  .nav-bar > li > a {
+    font-size: ms(3) !important;
+  }
+
+  /* line 309, ../sass/foundation-overrides.scss */
+  #copy, #credits {
+    display: block !important;
+    float: left !important;
+    width: 100% !important;
+    text-align: left !important;
+  }
+
+  /* line 315, ../sass/foundation-overrides.scss */
+  h1.projectTitle {
+    font-size: ms(3);
+  }
+
+  /* line 318, ../sass/foundation-overrides.scss */
+  ul, li, a, p, p.meta, blockquote, span {
+    font-size: 16px;
+  }
+
+  /* line 321, ../sass/foundation-overrides.scss */
+  .footer p, .footer a, .footer span {
+    font-size: 12px;
+  }
+}
+@media all and (max-width: 581px) {
+  /* line 327, ../sass/foundation-overrides.scss */
+  h1.logo {
+    font-size: 60px;
+  }
+
+  /* line 331, ../sass/foundation-overrides.scss */
+  .nav-bar > li > a {
+    font-size: ms(2) !important;
+  }
+
+  /* line 333, ../sass/foundation-overrides.scss */
+  h1.projectTitle {
+    font-size: ms(2);
+  }
+
+  /* line 336, ../sass/foundation-overrides.scss */
+  ul, li, a, p, p.meta, blockquote, span {
+    font-size: 14px;
+  }
+
+  /* line 339, ../sass/foundation-overrides.scss */
+  .footer p, .footer a, .footer span {
+    font-size: 11px;
+  }
+}
+@media all and (max-width: 428px) {
+  /* line 345, ../sass/foundation-overrides.scss */
+  h1.logo {
+    font-size: 40px;
+  }
+
+  /* line 349, ../sass/foundation-overrides.scss */
+  .nav-bar > li > a {
+    font-size: ms(2) !important;
+  }
+
+  /* line 351, ../sass/foundation-overrides.scss */
+  h1.projectTitle {
+    font-size: ms(1);
+  }
+
+  /* line 354, ../sass/foundation-overrides.scss */
+  ul, li, a, p, p.meta, blockquote, span {
+    font-size: 12px;
+  }
+
+  /* line 357, ../sass/foundation-overrides.scss */
+  .footer p, .footer a, .footer span {
+    font-size: 10px;
+  }
+}
+@media all and (max-width: 350px) {
+  /* line 363, ../sass/foundation-overrides.scss */
+  h1.logo {
+    font-size: 30px;
+  }
+
+  /* line 367, ../sass/foundation-overrides.scss */
+  .nav-bar > li > a {
+    font-size: ms(1) !important;
+  }
+
+  /* line 369, ../sass/foundation-overrides.scss */
+  h1.projectTitle {
+    font-size: ms(1);
+  }
+
+  /* line 372, ../sass/foundation-overrides.scss */
+  ul, li, a, p, p.meta, blockquote, span {
+    font-size: 10px;
+  }
+
+  /* line 375, ../sass/foundation-overrides.scss */
+  .footer p, .footer a, .footer span {
+    font-size: 9px;
+  }
+}

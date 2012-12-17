@@ -1,0 +1,997 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"text",
+				"text-align:   (property)"
+			],
+			[
+				"bor",
+				"border-bottom:   (property)"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"upda",
+				"updateProjectcosts  (function)"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"Shi",
+				"shippingAddress"
+			],
+			[
+				"ship",
+				"shipAdd"
+			],
+			[
+				"ki",
+				"kittingCost"
+			],
+			[
+				"fini",
+				"finishes"
+			],
+			[
+				"fin",
+				"finishToRemove"
+			],
+			[
+				"Finis",
+				"FinishesList"
+			],
+			[
+				"Lis",
+				"ListProperty"
+			],
+			[
+				"getCos",
+				"getCostOfDesign"
+			],
+			[
+				"fi",
+				"finish"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"Re",
+				"Reference"
+			],
+			[
+				"pr",
+				"projectCount"
+			],
+			[
+				"projec",
+				"project"
+			],
+			[
+				"do",
+				"doCut  (variable)"
+			],
+			[
+				"cut",
+				"cutCost"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"lim",
+				"limit"
+			],
+			[
+				"la",
+				"labourCost"
+			],
+			[
+				"cost",
+				"costList"
+			],
+			[
+				"a",
+				"ancestor"
+			],
+			[
+				"cos",
+				"costList"
+			],
+			[
+				"Shipp",
+				"ShippingBox"
+			],
+			[
+				"shi",
+				"Shipping"
+			],
+			[
+				"doc",
+				"docket"
+			],
+			[
+				"Dae",
+				"DateTimeProperty"
+			],
+			[
+				"project",
+				"projectType"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"type",
+				"projectType"
+			],
+			[
+				"Prin",
+				"Printer"
+			],
+			[
+				"docketlist",
+				"docketlist_name"
+			],
+			[
+				"Add",
+				"AddATestDocket  (function)"
+			],
+			[
+				"I",
+				"Invoice  (class)"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"is",
+				"isAdmin"
+			],
+			[
+				"post",
+				"postalCode"
+			],
+			[
+				"total",
+				"totalCostOfMaterial"
+			],
+			[
+				"area",
+				"areaOfPrint"
+			],
+			[
+				"ar",
+				"areaOfPrint"
+			],
+			[
+				"time",
+				"timeRoundedToNearestHalfHour"
+			],
+			[
+				"tim",
+				"timeRoundedToNearestHalfHour"
+			],
+			[
+				"are",
+				"areaOfPrint"
+			],
+			[
+				"prin",
+				"printerSpeed"
+			],
+			[
+				"flat",
+				"flatbedSpeed"
+			],
+			[
+				"tota",
+				"totalPrintingTime"
+			],
+			[
+				"how",
+				"howManyUp"
+			],
+			[
+				"to",
+				"totalCostOfSpecial"
+			],
+			[
+				"cal",
+				"calculatedCost"
+			],
+			[
+				"i",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"lin",
+				"linearPricingFile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 376,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 4691,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2010-03-04-robots.md",
+			"settings":
+			{
+				"buffer_size": 1152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/portfolio_entry.html",
+			"settings":
+			{
+				"buffer_size": 1476,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2010-03-04-robots_3.md",
+			"settings":
+			{
+				"buffer_size": 907,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Package Control:  ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"Snippet: lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 488.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/_posts/2010-03-04-robots_2.md",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/_posts/2010-03-04-chaosTheory_2.md",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/_layouts/about.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/about/index.md",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/about/resume.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/javascripts/source/jquery.fancybox.css",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/force.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/_posts/2010-03-04-robots.md",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/index.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/qwef.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/index.md",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/_layouts/base.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/_posts/robots.md",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/_posts/chaosTheory.md",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/_posts/motor.md",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/_posts/consolefont.md",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/index-2.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/_config.yml",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/_layouts/default.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/base.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com-jekyll/_layouts/portfolio_entry.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com v2.0/winkerVSbecks.com/pastebin.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com v2.0/winkerVSbecks.com/about.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com v2.0/winkerVSbecks.com/javascripts/source/jquery.fancybox.css",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com v2.0/winkerVSbecks.com/readme.md",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com v2.0/winkerVSbecks.com/sass/customSCSS.scss",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com v2.0/winkerVSbecks.com/project.html",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com v2.0/winkerVSbecks.com/javascripts/foundation/app.js",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com v2.0/winkerVSbecks.com/stylesheets/app.css",
+		"/Users/winkerVSbecks/Desktop/winkerVSbecks.com v2.0/winkerVSbecks.com/MIT-LICENSE.txt",
+		"/Users/winkerVSbecks/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/Users/winkerVSbecks/Library/Application Support/Sublime Text 2/Packages/User/BracketHighlighter.sublime-settings",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/templates/docket_cost_calculator.html",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/templates/admin.html",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/templates/index.html",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/templates/createDocket.html",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/templates/docket_shipping.html",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/templates/pastebin.html",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/templates/base.html",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/forms.py",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/templates/docket_invoice.html",
+		"/Users/winkerVSbecks/Desktop/scriptogram-source.html",
+		"/Users/winkerVSbecks/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/winkerVSbecks/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/winkerVSbecks/Desktop/mo/JekyllMo/_jekyllMo.sublime-project",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/templates/docket_control.html",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/app.yaml",
+		"/Users/winkerVSbecks/Desktop/test.html",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/static/css/style.css",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/static/css/bootstrap.css",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/admin/admin.html",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/admin/admin.py",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/admin/__init__.py",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/admin.py",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/templates/adminPage.html",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/templates/default_error.html",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/sheetCost.json",
+		"/Users/winkerVSbecks/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/queueLinearPricing.json",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/views.py",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/static/js/script.js",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/brain.py",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/forms.pyc",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/index.yaml",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/main.pyc",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/models.pyc",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/pages.pyc",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/README.md",
+		"/Users/winkerVSbecks/Desktop/AppEngineSandbox/queueinvoice/views.pyc",
+		"/Users/winkerVSbecks/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/winkerVSbecks/Dropbox/SnakeThing/Mo/UI and FrontEnd/UI_Basic/sketch.properties",
+		"/Users/winkerVSbecks/Dropbox/SnakeThing/Mo/UI and FrontEnd/UI_Record_Tests/UI_Record_Tests.pde",
+		"/Users/winkerVSbecks/Dropbox/SnakeThing/Mo/UI and FrontEnd/UI_Record_Tests/interface.js",
+		"/Users/winkerVSbecks/Dropbox/SnakeThing/Mo/UI and FrontEnd/UI_Record_Tests/Mo.pde",
+		"/Users/winkerVSbecks/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/winkerVSbecks/Desktop/test/test.pde",
+		"/Users/winkerVSbecks/Desktop/test.pde"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"images",
+			"twitter",
+			"72px",
+			"arrow",
+			"arrows",
+			"txtcolor",
+			"444",
+			"$defaultFloat",
+			"media",
+			"screen",
+			"float",
+			"default",
+			"radius",
+			"birder-radius",
+			"940px",
+			"projectCover",
+			"background",
+			"tumblr",
+			"h4",
+			"h3",
+			"h2",
+			"main",
+			"desktop",
+			"place",
+			"contenthover",
+			"#F2F2E9",
+			"F2F2E9",
+			"close",
+			"background-position",
+			"close",
+			"next",
+			"right",
+			"close",
+			"overlay",
+			"padding",
+			"opposit",
+			"oppostie",
+			"default",
+			"size",
+			"font",
+			"hr",
+			"color",
+			"h1",
+			"$baseFontSize:",
+			"ms",
+			"none",
+			"select",
+			"updateProjectCostsNoPrint",
+			"update",
+			"updateProjectcosts",
+			"invoice no.",
+			"invoice#",
+			"invoice number",
+			"updateProjectcosts",
+			"kitting",
+			"shippingUnits",
+			"UpdateShippingInfo",
+			"btn-b",
+			"btn-",
+			"kittingCost",
+			"well-elevated",
+			"alert-info",
+			"row",
+			"alert",
+			"finish.put",
+			"project-menu",
+			"console",
+			"project-menu",
+			"slider",
+			"costList",
+			"cutCost",
+			"file",
+			"form",
+			"BaseRequestHandler",
+			"addMaterial",
+			"add",
+			"cut",
+			"cuts",
+			"/form",
+			"form",
+			"project-menu",
+			"collapseOne",
+			"accordian project-menu",
+			"project.projectTotalCost",
+			"project.totalCost",
+			"project.totalcost",
+			"project.areaInSqFt",
+			"if",
+			"hidden",
+			"project.docket",
+			"project.docket ",
+			"uneditable",
+			"date",
+			"projectRate",
+			"project.rate",
+			"uneditable",
+			"inputSuccess",
+			"super+",
+			"super+`",
+			"ctrl",
+			"cmd",
+			"tab",
+			"ctrl",
+			"ctrl+`",
+			"ctrl",
+			"command+~",
+			"command+`",
+			"command",
+			"cmd",
+			"ctrl",
+			"ctrl+`",
+			"`",
+			"thumbnail",
+			"if",
+			"place",
+			"thumbnail",
+			"if",
+			"print",
+			"project",
+			"project.docket",
+			"right",
+			".right",
+			"pull-right",
+			"right",
+			"labour",
+			"ancestor",
+			"limit=1",
+			"fetch"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 4691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1357,
+								1357
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 482.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2010-03-04-robots.md",
+					"settings":
+					{
+						"buffer_size": 1152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								602,
+								602
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "_layouts/portfolio_entry.html",
+					"settings":
+					{
+						"buffer_size": 1476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1474,
+								1474
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 22.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_posts/2010-03-04-robots_3.md",
+					"settings":
+					{
+						"buffer_size": 907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.500357680723,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 139.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ab",
+				"about.html"
+			],
+			[
+				"pa",
+				"pastebin.html"
+			],
+			[
+				"cost",
+				"templates/docket_cost_calculator.html"
+			],
+			[
+				"admin",
+				"templates/admin.html"
+			],
+			[
+				"cre",
+				"templates/createDocket.html"
+			],
+			[
+				"ind",
+				"templates/index.html"
+			],
+			[
+				"invo",
+				"templates/docket_invoice.html"
+			],
+			[
+				"ad",
+				"templates/admin.html"
+			],
+			[
+				"crea",
+				"templates/createDocket.html"
+			],
+			[
+				"shi",
+				"templates/docket_shipping.html"
+			],
+			[
+				"pas",
+				"templates/pastebin.html"
+			],
+			[
+				"base",
+				"templates/base.html"
+			],
+			[
+				"in",
+				"templates/docket_invoice.html"
+			],
+			[
+				"bo",
+				"static/css/bootstrap.css"
+			],
+			[
+				"doc",
+				"templates/docket_control.html"
+			],
+			[
+				"sty",
+				"static/css/style.css"
+			],
+			[
+				"doce",
+				"templates/docket_control.html"
+			],
+			[
+				"",
+				"app.yaml"
+			],
+			[
+				"calc",
+				"templates/docket_cost_calculator.html"
+			],
+			[
+				"cos",
+				"templates/docket_cost_calculator.html"
+			],
+			[
+				"costc",
+				"templates/docket_cost_calculator.html"
+			],
+			[
+				"amin",
+				"templates/admin.html"
+			],
+			[
+				"inv",
+				"templates/docket_invoice.html"
+			],
+			[
+				"shipp",
+				"templates/docket_shipping.html"
+			],
+			[
+				"inde",
+				"templates/index.html"
+			],
+			[
+				"boo",
+				"static/css/bootstrap.css"
+			],
+			[
+				"html",
+				"templates/index.html"
+			],
+			[
+				"style",
+				"static/css/style.css"
+			],
+			[
+				"docket",
+				"templates/docket_control.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}

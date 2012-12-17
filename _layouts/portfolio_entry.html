@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div class="row" id="projectCover">
+	<div class="twelve columns">
+    <img class="" src="{{ page.hero }}" />
+    <h1 class="projectTitle">{{ page.title }}</h1>
+  </div>
+</div>
+<br />
+<div class="row">
+	<div class="three columns">
+		<p class="meta year">{{ page.year }}</p>
+		<p class="meta">{{ page.client }}</p>
+		
+		<p class="meta"> {% for category in page.categories %} {{ category }}{% if forloop.rindex0 != 0 %},{% endif %} {% endfor %}</p>
+
+		<p class="project-nav">{% if page.next.url %}<a class="icon-circle-arrow-left icon-large arrow" href="{{ page.next.url }}"></a>{% else %}<a class="icon-circle-arrow-left icon-large arrow inactive"></a> {% endif %} {% if page.previous.url %}<a class="icon-circle-arrow-right icon-large arrow" href="{{ page.previous.url }}"></a>{% else %}<a class="icon-circle-arrow-right icon-large arrow inactive"></a> {% endif %}
+
+			</p>
+	</div>
+  <div class="nine columns" id="projectContent">
+  	{{ content }}
+  </div>
+</div>
+
+{% if page.gallery %}
+<div class="row">
+	<div class="twelve columns">
+  	<div class="centered fancyGallery twelve columns">
+  		{% for image in page.gallery %}
+	  	<a class="fancybox" rel="gallery1" href="{{ image }}">
+				<img src="http://placehold.it/175x150" alt="" />
+			</a>
+			{% endfor %}
+		</div>
+	</div>
+</div>
+{% endif %}
+
+{% if page.videos %}
+<div class="row">
+	<div class="twelve columns">
+	  {% for video in page.videos %}{{ video }}{% endfor %}
+	</div>
+</div>
+{% endif %}
+

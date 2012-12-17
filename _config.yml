@@ -1,0 +1,4 @@
+server: true
+permalink: /:title
+auto: true
+exclude: [winkerVSbecks-Jekyll.sublime-workspace,  winkerVSbecks-Jekyll.sublime-project]
